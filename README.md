@@ -1,4 +1,5 @@
 # Git & Github 
+Setting up Git in your device: [Documentation](https://docs.google.com/document/d/1HAHqvMl7N7REElcEEtXY1nHiDgRdxdshWBwPaXAhRE4/edit?usp=sharing)
 ## Git
 Git is a version control system that allows developers to keep track of changes to their code over time. It was created by Linus Torvalds, the same person who created Linux, and it's now widely used by developers around the world.
 

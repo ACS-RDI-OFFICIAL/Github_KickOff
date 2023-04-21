@@ -1,11 +1,13 @@
 # Git & Github 
-Setting up Git in your device: [Documentation](https://docs.google.com/document/d/1HAHqvMl7N7REElcEEtXY1nHiDgRdxdshWBwPaXAhRE4/edit?usp=sharing)
+
 ## Git
 Git is a version control system that allows developers to keep track of changes to their code over time. It was created by Linus Torvalds, the same person who created Linux, and it's now widely used by developers around the world.
 
 The idea behind Git is simple. Instead of making a copy of your code each time you want to make a change, Git allows you to create a "snapshot" of your code at any point in time. These snapshots are called "commits", and they contain all the changes you've made since the last commit.
 
 One of the great things about Git is that it allows you to easily collaborate with other developers. You can share your code with others by creating a "repository", or "repo" for short, which is a place where your code and all its history are stored. Others can then "clone" your repo to make a copy of it on their own computer and make changes to the code. Once they're done, they can push their changes back to the original repo, and you can review and merge their changes into your code.
+
+Setting up **Git** in your device: [Documentation](https://docs.google.com/document/d/1HAHqvMl7N7REElcEEtXY1nHiDgRdxdshWBwPaXAhRE4/edit?usp=sharing)
 
 ## Github
 
